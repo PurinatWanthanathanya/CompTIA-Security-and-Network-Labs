@@ -12,8 +12,8 @@ To configure static IP addresses manually instead of relying on automated DHCP a
    * Utilized the `ping` command in the Command Prompt to verify connectivity between devices and ensure proper internet access.
 
 ## 📊 Results & Evidence
-* Successfully configured the static IP and verified network connectivity with 0% packet loss during the ping test. (in this lab ip address is DNS server)
-* 
+* Successfully configured the static IP and verified network connectivity with 0% packet loss during the ping test. (In this lab, the IP address we need to ping is the DNS server.)
+
 > 📸 <img width="864" height="565" alt="image" src="https://github.com/user-attachments/assets/313b6ce2-5a3c-448e-8337-e8114239b5e1" />
 > 📸 <img width="794" height="588" alt="image" src="https://github.com/user-attachments/assets/3892ff24-60d7-4de7-a703-de1f086e70e9" />
 
