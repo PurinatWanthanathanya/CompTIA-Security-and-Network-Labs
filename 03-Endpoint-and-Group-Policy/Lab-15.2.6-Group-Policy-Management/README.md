@@ -1,0 +1,29 @@
+# Lab 15.2.6: Group Policy Management
+
+**Role:** System Administrator
+
+## 🎯 Objective
+To centralize security configurations and enforce system policies across the network using Group Policy Objects (GPOs) and pre-configured Security Templates.
+
+## 🚀 Execution Steps
+1. **Group Policy Configuration:** 
+   * Accessed the Group Policy Management Console (GPMC) / Local Group Policy Editor to configure system-wide security settings, eliminating the need to manually configure individual machines.
+2. **Applying Security Templates:** 
+   * Imported and applied a standard Security Template. This template automatically configured a baseline of security settings, including account lockout policies, audit policies, and user rights assignments.
+3. **Policy Enforcement:** 
+   * Executed the `gpupdate /force` command in the Command Prompt to immediately push and apply the updated Group Policy configurations to the system without waiting for the default refresh interval.
+
+## 📊 Results & Evidence
+* Successfully applied the security template, ensuring the endpoint strictly complies with the organization's security baseline.
+
+> 📸 <img width="1198" height="567" alt="image" src="https://github.com/user-attachments/assets/15a8dc8f-f441-4c56-9b52-4c847003dfd0" />
+> 📸 <img width="1191" height="584" alt="image" src="https://github.com/user-attachments/assets/b0c75c29-dfed-431b-81dc-22019553a249" />
+> 📸 <img width="973" height="537" alt="image" src="https://github.com/user-attachments/assets/cc02c4c9-8b85-4c18-bd35-9cf68d53e77b" />
+
+
+
+
+## 🧠 Key Takeaways
+* **Centralized Management (GPO):** Learned that Group Policy Objects are powerful tools that allow administrators to manage, deploy, and enforce security configurations across hundreds of computers from a single central location.
+* **Security Templates:** Understood that using pre-defined security templates ensures consistent security baselines are deployed quickly, reducing human errors associated with manual configurations.
+* **Immediate Policy Refresh:** Realized that while Group Policies update automatically in the background over time, using `gpupdate /force` is essential during urgent security deployments or active troubleshooting to ensure policies are applied immediately.
