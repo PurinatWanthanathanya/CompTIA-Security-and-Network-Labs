@@ -19,10 +19,7 @@ To diagnose hardware-related network connectivity problems and manage the incide
 
 > 📸 <img width="853" height="544" alt="image" src="https://github.com/user-attachments/assets/5d08f9d8-cba0-480a-a118-e19e81704bc9" />
 
-> 📸 <img width="861" height="563" alt="image" src="https://github.com/user-attachments/assets/2e1f5025-b93b-45cb-84c3-c1b0cd5e9f6a" />
-
-
-
+> 📸 <img width="849" height="550" alt="image" src="https://github.com/user-attachments/assets/182886d6-7ff4-40fb-9952-d093d65c1489" />
 
 ## 🧠 Key Takeaways
 * **Hardware Verification First:** Learned that software symptoms, like a missing Wi-Fi icon, can often be caused by simple physical hardware issues, such as an external Wi-Fi switch being turned off on a laptop.
