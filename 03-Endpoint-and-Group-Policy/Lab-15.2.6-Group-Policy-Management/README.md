@@ -10,8 +10,6 @@ To centralize security configurations and enforce system policies across the net
    * Accessed the Group Policy Management Console (GPMC) / Local Group Policy Editor to configure system-wide security settings, eliminating the need to manually configure individual machines.
 2. **Applying Security Templates:** 
    * Imported and applied a standard Security Template. This template automatically configured a baseline of security settings, including account lockout policies, audit policies, and user rights assignments.
-3. **Policy Enforcement:** 
-   * Executed the `gpupdate /force` command in the Command Prompt to immediately push and apply the updated Group Policy configurations to the system without waiting for the default refresh interval.
 
 ## 📊 Results & Evidence
 * Successfully applied the security template, ensuring the endpoint strictly complies with the organization's security baseline.
