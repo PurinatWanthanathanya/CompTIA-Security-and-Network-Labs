@@ -2,6 +2,10 @@
 
 This repository contains documentation and scripts from hands-on laboratory exercises based on the CompTIA A+ (Core 1 & Core 2) certification standards. It demonstrates practical experience in network configuration, system administration, endpoint security, and IT service management (ITSM).
 
+> 🇹🇭 **Thai Version / บันทึกสรุปความเข้าใจภาษาไทย:**
+> For a detailed summary and personal study notes in Thai, please feel free to check out my document here: 
+> [📝 CompTIA A+ Full Study Notes (Google Docs)](https://docs.google.com/document/d/1fhZ_E7qYqSb-IdUTGPqMbpswpgmcqsf6Ws9wDvcX_nw/edit?usp=sharing)
+
 ## 📂 Repository Structure
 
 ### 1. [01-Networking-and-Protocols](./01-Networking-and-Protocols)
