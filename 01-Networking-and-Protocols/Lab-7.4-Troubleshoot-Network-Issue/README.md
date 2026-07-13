@@ -17,10 +17,9 @@ To diagnose hardware-related network connectivity problems and manage the incide
 * Successfully restored Wi-Fi connectivity by resolving the physical hardware issue.
 * Completed the support lifecycle by accurately documenting and closing the help desk ticket.
 
-> 📸
-> <img width="853" height="544" alt="image" src="https://github.com/user-attachments/assets/5d08f9d8-cba0-480a-a118-e19e81704bc9" />
+> 📸 <img width="853" height="544" alt="image" src="https://github.com/user-attachments/assets/5d08f9d8-cba0-480a-a118-e19e81704bc9" />
 
-<img width="861" height="563" alt="image" src="https://github.com/user-attachments/assets/2e1f5025-b93b-45cb-84c3-c1b0cd5e9f6a" />
+> 📸 <img width="861" height="563" alt="image" src="https://github.com/user-attachments/assets/2e1f5025-b93b-45cb-84c3-c1b0cd5e9f6a" />
 
 
 
