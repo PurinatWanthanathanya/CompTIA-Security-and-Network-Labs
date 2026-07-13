@@ -13,7 +13,8 @@ To configure static IP addresses manually instead of relying on automated DHCP a
 
 ## 📊 Results & Evidence
 * Successfully configured the static IP and verified network connectivity with 0% packet loss during the ping test.
-  (In this lab, the IP address we need to ping is the DNS server.)
+
+* Note: In this lab, the IP address we need to ping is the DNS server.
 
  <img width="864" height="565" alt="image" src="https://github.com/user-attachments/assets/313b6ce2-5a3c-448e-8337-e8114239b5e1" />
  
