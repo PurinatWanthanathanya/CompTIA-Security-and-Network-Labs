@@ -24,4 +24,3 @@ To centralize security configurations and enforce system policies across the net
 ## 🧠 Key Takeaways
 * **Centralized Management (GPO):** Learned that Group Policy Objects are powerful tools that allow administrators to manage, deploy, and enforce security configurations across hundreds of computers from a single central location.
 * **Security Templates:** Understood that using pre-defined security templates ensures consistent security baselines are deployed quickly, reducing human errors associated with manual configurations.
-* **Immediate Policy Refresh:** Realized that while Group Policies update automatically in the background over time, using `gpupdate /force` is essential during urgent security deployments or active troubleshooting to ensure policies are applied immediately.
