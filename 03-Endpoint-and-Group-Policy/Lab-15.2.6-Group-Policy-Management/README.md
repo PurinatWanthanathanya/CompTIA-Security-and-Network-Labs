@@ -16,9 +16,9 @@ To centralize security configurations and enforce system policies across the net
 ## 📊 Results & Evidence
 * Successfully applied the security template, ensuring the endpoint strictly complies with the organization's security baseline.
 
-> 📸 <img width="1198" height="567" alt="image" src="https://github.com/user-attachments/assets/15a8dc8f-f441-4c56-9b52-4c847003dfd0" />
-> 📸 <img width="1191" height="584" alt="image" src="https://github.com/user-attachments/assets/b0c75c29-dfed-431b-81dc-22019553a249" />
-> 📸 <img width="973" height="537" alt="image" src="https://github.com/user-attachments/assets/cc02c4c9-8b85-4c18-bd35-9cf68d53e77b" />
+> 📸 Create New GPO <img width="1198" height="567" alt="image" src="https://github.com/user-attachments/assets/15a8dc8f-f441-4c56-9b52-4c847003dfd0" />
+> 📸 Edit GPO that we create and import template policy<img width="1191" height="584" alt="image" src="https://github.com/user-attachments/assets/b0c75c29-dfed-431b-81dc-22019553a249" />
+> 📸 Assign GPO to team<img width="973" height="537" alt="image" src="https://github.com/user-attachments/assets/cc02c4c9-8b85-4c18-bd35-9cf68d53e77b" />
 
 
 
