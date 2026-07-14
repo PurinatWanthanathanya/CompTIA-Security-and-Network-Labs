@@ -17,9 +17,9 @@ To diagnose hardware-related network connectivity problems and manage the incide
 * Successfully restored Wi-Fi connectivity by resolving the physical hardware issue.
 * Completed the support lifecycle by accurately documenting and closing the help desk ticket.
 
-> 📸 <img width="853" height="544" alt="image" src="https://github.com/user-attachments/assets/5d08f9d8-cba0-480a-a118-e19e81704bc9" />
+> 📸 Assess the problem and analyze ways to find solutions<img width="853" height="544" alt="image" src="https://github.com/user-attachments/assets/5d08f9d8-cba0-480a-a118-e19e81704bc9" />
 
-> 📸 <img width="849" height="550" alt="image" src="https://github.com/user-attachments/assets/182886d6-7ff4-40fb-9952-d093d65c1489" />
+> 📸 Reply and close the ticket<img width="849" height="550" alt="image" src="https://github.com/user-attachments/assets/182886d6-7ff4-40fb-9952-d093d65c1489" />
 
 ## 🧠 Key Takeaways
 * **Hardware Verification First:** Learned that software symptoms, like a missing Wi-Fi icon, can often be caused by simple physical hardware issues, such as an external Wi-Fi switch being turned off on a laptop.
