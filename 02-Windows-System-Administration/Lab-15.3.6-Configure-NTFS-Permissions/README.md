@@ -17,8 +17,8 @@ To secure sensitive corporate data by configuring NTFS permissions, managing Acc
 * Successfully restricted unauthorized access to sensitive directories and verified that folder permissions strictly comply with the organization's security and PoLP policies.
 
 > 📸 Disable inheritance<img width="1203" height="590" alt="image" src="https://github.com/user-attachments/assets/16f34bd1-835e-42df-a8ab-bd823f43ab2c" />
-> 📸 Convert<img width="1186" height="609" alt="image" src="https://github.com/user-attachments/assets/741271b3-ccfd-45c1-a679-3927fdf213fa" />
-> 📸 <img width="1143" height="616" alt="image" src="https://github.com/user-attachments/assets/c1b1d078-e547-4e34-a0ce-51d16aaa921d" />
+> 📸 Convert inherit permission to explicit permission<img width="1186" height="609" alt="image" src="https://github.com/user-attachments/assets/741271b3-ccfd-45c1-a679-3927fdf213fa" />
+> 📸 Grant the group maximum access rights<img width="1143" height="616" alt="image" src="https://github.com/user-attachments/assets/c1b1d078-e547-4e34-a0ce-51d16aaa921d" />
 
 
 
