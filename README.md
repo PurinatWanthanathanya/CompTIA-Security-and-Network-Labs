@@ -38,5 +38,5 @@ Writing scripts to automate routine IT tasks and monitor resources.
 Simulating enterprise Help Desk workflows and compliance standards.
 * **Key Topics:** Managing IT support tickets, handling Personally Identifiable Information (PII) securely, and responding to unauthorized software installations based on standard operating procedures (SOP).
 
-Disclaimer:
+⚠️Disclaimer:
 This repository contains my personal notes, scripts, and summaries created while studying and practicing hands-on labs for the CompTIA A+ certification. All laboratory tasks were performed and documented in my own words for educational and portfolio purposes. No proprietary materials or official instructional texts from CompTIA are reproduced here.
