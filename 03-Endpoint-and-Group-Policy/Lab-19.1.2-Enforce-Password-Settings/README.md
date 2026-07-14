@@ -18,8 +18,9 @@ To enhance endpoint security by enforcing strict password requirements and confi
 ## 📊 Results & Evidence
 * Successfully established a robust authentication baseline that prevents the use of weak passwords and automatically defends against unauthorized guessing attacks.
 
-> 📸 <img width="1255" height="617" alt="image" src="https://github.com/user-attachments/assets/f94291b3-f407-489b-b7c1-ca7eabeacd3d" />
-> 📸 <img width="1279" height="669" alt="image" src="https://github.com/user-attachments/assets/e2522a0b-d645-46dc-ab9e-576ef6aef937" />
+> 📸 Configured password settings<img width="1255" height="617" alt="image" src="https://github.com/user-attachments/assets/f94291b3-f407-489b-b7c1-ca7eabeacd3d" />
+
+> 📸 Set the account lockout<img width="1279" height="669" alt="image" src="https://github.com/user-attachments/assets/e2522a0b-d645-46dc-ab9e-576ef6aef937" />
 
 ## 🧠 Key Takeaways
 * **Password Complexity & History:** Learned that relying on passwords alone is vulnerable. Forcing complexity and preventing password reuse (History) significantly reduces the success rate of dictionary attacks and credential stuffing.
