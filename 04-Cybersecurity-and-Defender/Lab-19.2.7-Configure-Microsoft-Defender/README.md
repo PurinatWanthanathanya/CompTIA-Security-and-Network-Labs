@@ -16,7 +16,7 @@ To secure the endpoint by configuring Microsoft Defender Antivirus, executing ap
 ## 📊 Results & Evidence
 * Successfully completed system scans to ensure the endpoint is malware-free, and applied exclusions effectively without compromising overall system security.
 
-> 📸 <img width="1073" height="624" alt="image" src="https://github.com/user-attachments/assets/e1160668-3701-4526-a703-0962c3fb7c17" />
+> 📸 Add exclusions trusted files or services<img width="1073" height="624" alt="image" src="https://github.com/user-attachments/assets/e1160668-3701-4526-a703-0962c3fb7c17" />
 
 ## 🧠 Key Takeaways
 * **Scan Types (Quick vs. Full):** Learned that a Quick Scan is efficient for daily baseline checks because it targets the most vulnerable areas, whereas a Full Scan is resource-intensive but necessary for deep forensic checks across all connected drives.
