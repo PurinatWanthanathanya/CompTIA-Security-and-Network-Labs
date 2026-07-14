@@ -16,7 +16,7 @@ To secure the endpoint by configuring local firewall profiles based on network e
 ## 📊 Results & Evidence
 * Successfully hardened the workstation's local firewall against external threats on public networks while maintaining seamless connectivity for authorized services like File/Printer sharing and Cloud Identity.
   
-> 📸 <img width="1279" height="648" alt="image" src="https://github.com/user-attachments/assets/982855a5-3d8d-4921-9c7b-f402b3c3aa73" />
+> 📸 Allows trusted applications or services<img width="1279" height="648" alt="image" src="https://github.com/user-attachments/assets/982855a5-3d8d-4921-9c7b-f402b3c3aa73" />
 
 
 ## 🧠 Key Takeaways
