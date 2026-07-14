@@ -18,7 +18,7 @@ To monitor system performance, resolve unresponsive applications, and ensure leg
 ## 📊 Results & Evidence
 * Successfully restored system performance by terminating hung processes and enabled the legacy application to run flawlessly without needing to downgrade the operating system.
 
-> 📸 Disable startup apps<img width="716" height="537" alt="image" src="https://github.com/user-attachments/assets/de593d5e-0e74-41d6-831a-2d86f9259aab" />
+> 📸 Disable startup apps<br><img width="716" height="537" alt="image" src="https://github.com/user-attachments/assets/de593d5e-0e74-41d6-831a-2d86f9259aab" />
 
 > 📸 Configure Compatibility Mode<img width="888" height="543" alt="image" src="https://github.com/user-attachments/assets/22c570ab-9d67-49a4-8acd-af7e30a7f75d" />
 
