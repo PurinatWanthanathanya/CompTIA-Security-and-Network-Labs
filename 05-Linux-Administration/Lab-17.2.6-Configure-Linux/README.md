@@ -24,7 +24,7 @@ To perform essential Linux administration tasks including account security (lock
 
 > 📸 Move Project and remove unauthorized file<img width="667" height="375" alt="image" src="https://github.com/user-attachments/assets/27cb81d0-45b2-41b9-a393-9a128a7998f2" />
 
-> 📸 Change owner and group owner<img width="670" height="375" alt="image" src="https://github.com/user-attachments/assets/ec25b650-0ac1-4fe5-b043-f2d314825cc0" />
+> 📸 Change owner and group owner<br><img width="670" height="375" alt="image" src="https://github.com/user-attachments/assets/ec25b650-0ac1-4fe5-b043-f2d314825cc0" />
 
 ## 🧠 Key Takeaways
 * **Account Lifecycle Management:** Locking an account is a critical security measure when an employee leaves or changes roles. It disables login capabilities while preserving the user's data for safe migration by administrators.
