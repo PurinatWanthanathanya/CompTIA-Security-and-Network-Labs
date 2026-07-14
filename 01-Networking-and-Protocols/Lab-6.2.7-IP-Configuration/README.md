@@ -18,7 +18,7 @@ To configure static IP addresses manually instead of relying on automated DHCP a
 
 > 📸 Configure static IP addresses manually<img width="864" height="565" alt="image" src="https://github.com/user-attachments/assets/313b6ce2-5a3c-448e-8337-e8114239b5e1" />
  
-> 📸 Testing Connection<img width="794" height="588" alt="image" src="https://github.com/user-attachments/assets/3892ff24-60d7-4de7-a703-de1f086e70e9" />
+> 📸 Testing Connection<br><img width="794" height="588" alt="image" src="https://github.com/user-attachments/assets/3892ff24-60d7-4de7-a703-de1f086e70e9" />
 
 
 ## 🧠 Key Takeaways
