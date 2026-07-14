@@ -17,8 +17,9 @@ To securely manage corporate user accounts by structuring Organizational Units (
 ## 📊 Results & Evidence
 * Successfully deployed a structured Active Directory environment with standardized user accounts and hardened access controls for temporary staff.
 
-> 📸 <img width="1037" height="568" alt="image" src="https://github.com/user-attachments/assets/38a951f3-98a8-4462-b8b9-e87e69ca372b" />
-> 📸 <img width="1078" height="642" alt="image" src="https://github.com/user-attachments/assets/ba5ad369-ff0f-4d68-84e9-68113d5e36df" />
+> 📸 Create user<img width="1037" height="568" alt="image" src="https://github.com/user-attachments/assets/38a951f3-98a8-4462-b8b9-e87e69ca372b" />
+
+> 📸 Set up Logon Hours<img width="1078" height="642" alt="image" src="https://github.com/user-attachments/assets/ba5ad369-ff0f-4d68-84e9-68113d5e36df" />
 
 
 ## 🧠 Key Takeaways
